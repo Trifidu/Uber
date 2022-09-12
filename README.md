@@ -9,7 +9,7 @@
 ## Frontend Stack
 
 - HTML
-- SCSS
+- SASS
 - JS
 
 ## Link
