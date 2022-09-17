@@ -14,4 +14,4 @@
 
 ## Link
 
-[versel-Uber](https://uber-lovat.vercel.app)
+[vercel-Uber](https://uber-lovat.vercel.app)
